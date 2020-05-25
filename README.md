@@ -8,7 +8,7 @@ Versiunea folosita pentru crearea bazei de date este Oracle 12c release 2 pentru
 
 ![](Diagrama%20conceptuala.png)
 
-Cerinte pentru proiect:
+# Cerinte pentru proiect:
 1. Afiseaza numele clientilor din baza de date.
 2. Afiseaza datele despre clientii din baza de date.
 3. Afiseaza suma comenzilor clientului de la masa cu numarul "nr_masa". Daca masa este ocupata de mai multi clienti, atunci da eroare.
