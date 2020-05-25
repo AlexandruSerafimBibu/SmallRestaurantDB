@@ -1,0 +1,2 @@
+# SmallRestaurantDB
+Pl/SQL, SQL
